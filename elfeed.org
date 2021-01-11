@@ -1,0 +1,40 @@
+* Papers :elfeed:
+**  Economics :economics:papers:
+*** [[https://back.nber.org/rss/new.xml][NBER]]
+*** [[https://www.bankofcanada.ca/content_type/working-papers/feed/][Bank Of Canada]]
+*** [[https://onlinelibrary.wiley.com/feed/15405982/most-recent][Canadian Journal Of Economics]]
+*** REPEC NEP :nep:
+**** [[http://nep.repec.org/rss/nep-cmp.rss.xml][Computational Economics]]
+**** [[http://nep.repec.org/rss/nep-gth.rss.xml][Game Theory]]
+**** [[p][Econometrics]]
+
+* Youtube :elfeed:
+**  Economics :economics:youtube:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCtGO-l5UPnrsLXOGG9nMF5w][Econ John]]
+
+* Blogs :elfeed:
+**  Economics :economics:blog:
+*** [[http://stochastictrend.blogspot.com/feeds/posts/default][The Stochastic Trend]]
+*** [[http://worthwhile.typepad.com/worthwhile_canadian_initi/atom.xml][Worthwhile Canadian Initiative]]
+**  Statistics/Econometrics :metrics:blog:
+*** [[http://www.stat.columbia.edu/~cook/movabletype/mlm/atom.xml][Statistical Modeling, Causal Inference, and Social Science]]
+*** [[http://econometricsense.blogspot.com/feeds/posts/default][Econometric Sense]]
+*** [[http://robjhyndman.com/researchtips/feed/][Hyndsight on Rob J Hyndman]]
+*** [[Analysis F][The Analysis Factor]]
+*** [[https://flowingdata.com/feed/][Flowing Data]]
+*** [[https://simplystatistics.org/index.xml][Simply Statistics]]
+
+* Other
+** Economics :economics:
+*** [[https://www.aeaweb.org/research/rss-feed][AEA Research Highlights]]
+*** [[http://www.themoneyillusion.com/?feed=rss2][The Money Illusion]]
+*** [[http://microeconomicinsights.org/feed/][Microeconomic Insights]]
+
+* Podcasts :elfeed:
+** Economics :economics:podcast:
+*** [[https://feeds.npr.org/510325/podcast.xml][The Indicator]]
+*** [[https://feeds.megaphone.fm/GLD9218176758][Exchanges at Goldman Sachs]]
+*** [[aearesearchhighlights.libsyn.com/rss][AEA Research Highlights]]
+*** [[https://feed.podbean.com/probablecausation/feed.xml][Probable Causation]]
+*** [[https://www.mercatus.org/bridge/feed][Macro Musings]]
+*** [[https://www.tradetalkspodcast.com/feed/podcast][Trade Talks]]
